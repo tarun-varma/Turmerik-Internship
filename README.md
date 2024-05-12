@@ -8,11 +8,14 @@ This project aims to demonstrate the utilization of sentiment analysis and AI-dr
 ### 2. Install Dependencies
 **command** - pip install -r requirements.txt
 
-### 3. Run the code
+### 3. Run the code for data collection from Reddit
 Execute scripts.py which scrapes the data from reddit using praw.
 Run "python3 scripts.py"
 
 This will save the required dataset having posts related to clinical trails in the Data folder.
+
+### 4. Run the python notebook for sentiment analysis results
+Execute the Turmerik.ipynb notebook for the sentiment analysis results using TextBlob.
 
 ## Methodology and Challenges
 1. **Data Collection** - Utilized PRAW (Python Reddit API Wrapper) to scrape relevant subreddits for posts and comments about clinical trials.
