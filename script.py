@@ -46,6 +46,6 @@ for subreddit_name in subreddit_list:
 df = pd.concat([pd.DataFrame(data[i]) for i in range(len(data))], ignore_index=True)
 
 # Save the DataFrame as a CSV file
-df.to_csv('reddit_data.csv', index=False)
+df.to_csv('Data/reddit_data.csv', index=False)
 
 print("Data saved successfully!")
