@@ -19,6 +19,29 @@ This will save the required dataset having posts related to clinical trails in t
 2. **Sentiment Analysis** - Employed TextBlob for sentiment analysis to gauge user opinions and receptiveness towards clinical trials.
 3. **Message Generation** - Utilized the OpenAI API to generate personalized messages aimed at users expressing interest in or potentially benefiting from participating in a clinical trial.
 
+### Challenges
+1. Handling large volumes of data while scraping Reddit.
+2. Ensuring accuracy and reliability of sentiment analysis results.
+3. Fine-tuning the AI model to generate coherent and contextually appropriate messages.
+
+## Examples
+**Data Collected** - Example Reddit posts and comments related to clinical trials.
+
+![image](https://github.com/tarun-varma/Turmerik-Internship/assets/77658822/1ea095e6-eae8-4c39-a65c-b0d4dfe29f51)
+
+
+
+**Sentiment Analysis Results** - Visualizations showcasing sentiment distributions across different sentiment groups.
+Number of comments with positive opinions: 10467
+Number of comments with neutral opinions: 6043
+Number of comments with negative opinions: 4974
+
+
+**Personalized Messages generated** - Examples of personalized messages generated for positive, neutral, and negative sentiment groups.
+
+I ran out of credits for the OpenAI API so was unable to generate personalized messages but I have the idea on how to do this.
+
+
 
 
 
