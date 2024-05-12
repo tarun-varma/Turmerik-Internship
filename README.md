@@ -37,7 +37,7 @@ Number of comments with negative opinions: 4974
 
 **Personalized Messages generated** - Examples of personalized messages generated for positive, neutral, and negative sentiment groups.
 
-I ran out of credits for the OpenAI API so was unable to generate personalized messages but I have the idea on how to do this.
+I ran out of credits for the OpenAI API so was unable to generate personalized messages but I have the idea on how to do this and will explain about it.
 
 
 
