@@ -3,10 +3,10 @@ This project aims to demonstrate the utilization of sentiment analysis and AI-dr
 
 ## Setup Instructions
 ### 1. Clone the repository
-command - git clone https://github.com/tarun-varma/Turmerik-Internship.git
+**command** - git clone https://github.com/tarun-varma/Turmerik-Internship.git
 
 ### 2. Install Dependencies
-command - pip install -r requirements.txt
+**command** - pip install -r requirements.txt
 
 ### 3. Run the code
 Execute scripts.py which scrapes the data from reddit using praw.
