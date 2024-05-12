@@ -26,15 +26,13 @@ This will save the required dataset having posts related to clinical trails in t
 
 ## Examples
 **Data Collected** - Example Reddit posts and comments related to clinical trials.
-
-![image](https://github.com/tarun-varma/Turmerik-Internship/assets/77658822/1ea095e6-eae8-4c39-a65c-b0d4dfe29f51)
-
-
+The Python script (Script.py) utilizes the PRAW library to scrape data from Reddit, focusing on subreddits relevant to health conditions and clinical trials. It authenticates with Reddit's API using provided credentials and iterates over each subreddit, extracting information such as post titles, scores, URLs, and comments. The script aggregates this data into a structured format, converting it into a Pandas DataFrame, and saves it as a CSV file named 'reddit_data.csv'. This approach enables the collection of a diverse range of opinions and discussions from Reddit users, providing valuable insights into their attitudes and interests regarding clinical trials and health-related topics.
 
 **Sentiment Analysis Results** - Visualizations showcasing sentiment distributions across different sentiment groups.
 Number of comments with positive opinions: 10467
 Number of comments with neutral opinions: 6043
 Number of comments with negative opinions: 4974
+![image](https://github.com/tarun-varma/Turmerik-Internship/assets/77658822/1ea095e6-eae8-4c39-a65c-b0d4dfe29f51)
 
 
 **Personalized Messages generated** - Examples of personalized messages generated for positive, neutral, and negative sentiment groups.
